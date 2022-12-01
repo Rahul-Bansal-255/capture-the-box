@@ -1,0 +1,38 @@
+#box {
+    height: 500px;
+    width:1000px;
+
+    position: absolute;
+    top: 40px;
+    left: 110px;
+
+    border: 2px solid black;
+}
+
+#black {
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+    background-color: black;
+}
+
+#red {
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+
+    background-color: red;
+}
+
+button {
+    position: absolute;
+    top: 15px;
+    left: 595px;
+}
